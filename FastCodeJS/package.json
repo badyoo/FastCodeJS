@@ -1,0 +1,17 @@
+{
+  "name": "badyoo",
+  "version": "1.0.0",
+  "description": "BYGL开发工作流",
+  "main": "build.js",
+  "bin": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "badyoo",
+  "license": "MIT",
+  "dependencies": {
+    "rollup": "^1.27.14",
+    "rollup-plugin-typescript2": "^0.25.3",
+    "typescript": "^3.7.4"
+  }
+}
