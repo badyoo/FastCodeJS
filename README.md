@@ -22,9 +22,10 @@
 * 其他功能？好像没啥功能了吧~ 度娘：TypeScript JavaScript ES6入门到精通
 
 # 注意
+* 项目目录必须跟FastCodeJS同级
 * 目前导出都是es6 的JavaScript 
 * 如果你要兼容ie8 需要导出万能的ES5只能使用TypeScript编写
-* 修改tsconfig.json里的 "target": "ES5" 即可
+  修改tsconfig.json里的 "target": "ES5" 即可
 
 
 ### License
