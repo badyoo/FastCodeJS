@@ -1,6 +1,7 @@
 # FastCodeJS
-这是一套快速开发TypeScript 或者 JavaScript ES6项目的 一键编译环境
-不熟悉nodejs webpack rollup 模块化 ? 游戏引擎他们为啥那么好，直接自带编译环境;
+* 这是一套快速开发TypeScript 或者 JavaScript ES6项目的 一键编译环境
+* 抛弃繁琐的配置流程,直接使用;
+* 集成vsvode + nodejs + typeScript + rollup html5模块化开发环境
 # 作者
 * [badyoo](https://github.com/badyoo)
 * QQ:547243998
