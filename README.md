@@ -12,9 +12,10 @@
 # 用法
 * 下载最新版的vscode https://code.visualstudio.com/
 * 给vscode安装以下插件：
-  Debugger for Chrome;谷歌浏览器调试工具
-  当然你需要中午界面就打个中文补丁
-  Chinese (Simplified);
+  * 谷歌浏览器调试工具
+  * Debugger for Chrome;
+  * 当然你需要中文界面就打个中文补丁
+  * Chinese (Simplified);
 * TypeScript迷直接拷贝一份TSEmpty用vscode打开文件夹即可
 * JavaScript ES6迷直接拷贝一份JSEmpty用vscode打开文件夹即可
 * 按f5熟悉的编译环境就回来了，抛弃nodejs环境的烦劳
