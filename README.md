@@ -8,6 +8,7 @@
 
 # 网站
 * http://www.616ko.com/
+* 微博:http://weibo.com/badyoo
 
 # 用法
 * 下载最新版的vscode https://code.visualstudio.com/
